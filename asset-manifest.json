@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/tonder-ecommerce/static/css/main.073c9b0a.css",
-    "main.js": "/tonder-ecommerce/static/js/main.097b88a6.js",
+    "main.css": "/tonder-ecommerce/static/css/main.ca099d92.css",
+    "main.js": "/tonder-ecommerce/static/js/main.770b6106.js",
     "static/js/787.b76bf2d7.chunk.js": "/tonder-ecommerce/static/js/787.b76bf2d7.chunk.js",
-    "static/media/nacho.png": "/tonder-ecommerce/static/media/nacho.0110191a718104e080af.png",
     "index.html": "/tonder-ecommerce/index.html",
-    "main.073c9b0a.css.map": "/tonder-ecommerce/static/css/main.073c9b0a.css.map",
-    "main.097b88a6.js.map": "/tonder-ecommerce/static/js/main.097b88a6.js.map",
+    "main.ca099d92.css.map": "/tonder-ecommerce/static/css/main.ca099d92.css.map",
+    "main.770b6106.js.map": "/tonder-ecommerce/static/js/main.770b6106.js.map",
     "787.b76bf2d7.chunk.js.map": "/tonder-ecommerce/static/js/787.b76bf2d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.097b88a6.js"
+    "static/css/main.ca099d92.css",
+    "static/js/main.770b6106.js"
   ]
 }
