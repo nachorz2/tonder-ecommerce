@@ -29,7 +29,8 @@ const Features = () => {
           })}
         </div>
       </div>
-      <button className={styles.shopBtn}>Start shopping</button>
+      <button href="https://nachorz2.github.io/ecommerce-cart/"
+      className={styles.shopBtn}>Start shopping</button>
     </div>
   );
 };
